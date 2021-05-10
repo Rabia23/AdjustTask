@@ -104,12 +104,13 @@ rabia@Rabias-MacBook-Pro adjust_task % mysql -u root -p
 Enter password: root
 
 create databases and database user
-mysql> source /Users/rabia/Downloads/adjust_task/adjust_task/conf/init.sql (absolute path to init.sql file)
+mysql> source /Users/rabia/Downloads/AdjustTask/adjust_task/conf/init.sql (absolute path to init.sql file)
 
 mysql> show databases;
 mysql> select Host, User from mysql.user;
-mysql> use adjustdb1;
+mysql> use adjustdb;
 mysql> show tables; (it doesn't have any tables right now. We will create it later)
+mysql> exit
 ```
 
 - Create and activate the virtual environment:
