@@ -1,0 +1,14 @@
+
+1. Task understanding and making initial design:  1 hour
+2. Implementation:
+     a. Basic project structure: 0.5 hour
+     b. Setting up database: 0.5 hour
+     c. Writing API: 2 hours 
+     d. Code refactoring and PEP8/Pylint: 0.5 hour
+     e. Writing and testing unittests: 1 hour
+3. Testing API: 0.5 hour
+4. Debugging and context switching time: 1 hour
+5. Writing README.md file: 1 hour
+
+
+Total Hours: 8 hours
